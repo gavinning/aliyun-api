@@ -1,0 +1,25 @@
+{
+  "name": "aliyun-api",
+  "version": "0.1.0",
+  "description": "request aliyun open api",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "mocha test/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/aliyun-api.git"
+  },
+  "keywords": [
+    "aliyun",
+    "aliyun-api",
+    "aliyun",
+    "api"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/aliyun-api/issues"
+  },
+  "homepage": "https://github.com/gavinning/aliyun-api#readme"
+}
